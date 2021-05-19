@@ -1,0 +1,19 @@
+body {
+    background-color: #2980B9;
+    color: #FFFFFF;
+    width: 95%;
+    margin: auto;
+    margin-top: 15px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #FFFFFF;
+    text-align:center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+a {
+    color: #FFFFFF;
+}
+input {
+    background-color: #2980B9;
+    color: #FFFFFF;
+}
